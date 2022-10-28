@@ -4,7 +4,7 @@ import java.util.Queue;
 import java.util.Random;
 
 public class Main {
-    private static List<String> NAMES = List.of(
+    private static  List<String> NAMES = List.of(
             " Ivan Ivanov",
             "Cemen Cemenow",
             "Igor Igorev",
